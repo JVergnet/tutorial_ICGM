@@ -1,4 +1,4 @@
-# tutorial_ICGM
+# tutorials
 
 this folder contains the tutorial as python notebook (ipynb). 
 It also contains some file to be used as basic example.
